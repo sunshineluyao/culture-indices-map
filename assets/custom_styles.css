@@ -1,0 +1,72 @@
+/* custom_styles.css */
+
+/* Set the background color of the entire app */
+body {
+    background-color: #2d00f7;
+    color: #ffffff; /* Default text color */
+}
+
+/* Style for the main container */
+.container-fluid {
+    padding: 30px;
+}
+
+/* Style for the header */
+h1 {
+    color: #ffffff;
+    font-family: 'Arial, sans-serif';
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+    background-color: #2d00f7;
+}
+
+/* Style for cards */
+.card {
+    background-color: #ffffff;
+    color: #2d00f7;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Style for card titles */
+.card-title {
+    font-weight: bold;
+    color: #2d00f7;
+}
+
+/* Style for paragraphs inside cards */
+.card p {
+    color: #2d00f7;
+}
+
+/* Style for unordered lists inside cards */
+.card ul {
+    color: #2d00f7;
+}
+
+/* Style for tabs */
+.nav-tabs .nav-link {
+    background-color: #2d00f7;
+    color: #ffffff;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #ffffff;
+    color: #2d00f7;
+}
+
+ /* custom_styles.css */
+.custom-tab {
+    background-color: #ffffff;
+    color: 2d00f7;
+}
+
+.custom-tab--selected {
+    background-color: #2d00f7;
+    color: #ffffff;
+    font-weight: bold;
+}
+
